@@ -242,6 +242,55 @@ body {
         display: block;
     }
     .main-page {
+        height: 2300px;
+        width: 700px;
+    }
+    .sep-style1 {
+        position: absolute;
+        left: 28px;
+        width: 145px;
+        flex-wrap: wrap;
+    }
+    .sep-style {
+        width: 145px;
+        position: absolute;
+        top: 150px;
+        left: 0px;
+        right: 600px;
+    }
+    .dude {
+        width: 145px;
+        position: absolute;
+        top: 300px;
+        left: 0px;
+    } 
+    .fon-div {
+        width: 145px;
+        position: absolute;
+        top: 430px;
+        left: 28px;
+    } 
+    .ton-div {
+        width: 145px;
+        position: absolute;
+        top: 1300px;
+        right: 45px;
+        height: 600px;
+    }
+    .son-div {
+        width: 145px;
+        position: absolute;
+        top: 850px;
+        height: 550px;
+    }
+}
+@media (max-width:375) {
+    .court {
+        position: relative;
+        right: 70px;
+        display: block;
+    }
+    .main-page {
         height: 1900px;
         width: 700px;
     }
@@ -275,10 +324,12 @@ body {
         position: absolute;
         top: 1300px;
         right: 45px;
+        left: 0px;
     }
     .son-div {
         width: 145px;
         position: absolute;
         top: 850px;
+        height: 400px;
     }
 }

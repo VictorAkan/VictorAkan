@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 React Native Developer
 ----------------------------------------------------------------------
 
-Passionate Web, React Native, and Cybersecurity Analyst with a strong foundation in Kotlin. With 2 years of hands-on experience in Frontend web development using React, I've successfully built and deployed real-world applications to address global challenges. My expertise lies in crafting innovative solutions that combine cutting-edge technologies with a focus on security and user experience. Let's collaborate on building the future of the web together!
+Passionate Web and React Native Developer, with a strong foundation in JavaScript. With 2 years of hands-on experience in front-end web development using React, I've successfully built and deployed real-world applications to address global challenges. My expertise lies in crafting innovative solutions that combine cutting-edge technologies with a focus on security and user experience. Let's collaborate on building the future of the web together!
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [vikurekong123@gmail.com](mailto:vikurekong123@gmail.com)

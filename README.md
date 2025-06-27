@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Victor Ikurekong
 ========================================================================================================================================
 
-Front-end Developer || React Native Developer || Cybersecurity Analyst
+React Native Developer
 ----------------------------------------------------------------------
 
 Passionate Web, React Native, and Cybersecurity Analyst with a strong foundation in Kotlin. With 2 years of hands-on experience in Frontend web development using React, I've successfully built and deployed real-world applications to address global challenges. My expertise lies in crafting innovative solutions that combine cutting-edge technologies with a focus on security and user experience. Let's collaborate on building the future of the web together!
